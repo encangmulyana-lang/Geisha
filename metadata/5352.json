@@ -1,0 +1,35 @@
+{
+  "name": "Geisha #5352",
+  "description": "Geisha \u2014 7,777 pixel-art geisha portraits on BNB Chain. Mint #1 free per wallet, then tiered pricing. Every Geisha claims 10,000 $GEI.",
+  "image": "https://geisha-eta.vercel.app/images/geiko.webp",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Geiko"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silk Kimono"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Evening Garden"
+    },
+    {
+      "trait_type": "Light",
+      "value": "Dusk Rose"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Petal"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Silk"
+    }
+  ]
+}
