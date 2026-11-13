@@ -1,0 +1,35 @@
+{
+  "name": "Geisha #7743",
+  "description": "Geisha \u2014 7,777 pixel-art geisha portraits on BNB Chain. Mint #1 free per wallet, then tiered pricing. Every Geisha claims 10,000 $GEI.",
+  "image": "https://geisha-eta.vercel.app/images/kaguya.webp",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Kaguya"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Moon Princess Regalia"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moon Palace"
+    },
+    {
+      "trait_type": "Light",
+      "value": "Lunar Radiance"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Lunar"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    }
+  ]
+}
